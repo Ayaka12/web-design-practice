@@ -1,0 +1,14 @@
+{
+  "child": [
+    {
+      "id": 1,
+      "name": "佐藤",
+      "attendance": "1"
+    },
+    {
+      "id": 2,
+      "name": "木村",
+      "attendance": "3"
+    }
+  ]
+}
